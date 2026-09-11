@@ -1,8 +1,8 @@
 # Registro de Progresso — Projeto Integrador
 
 **Equipe:** Equipe XX  
-**Turma:** ____________________  
-**Professor técnico:** ____________________
+**Turma:** Meca3V
+**Professor técnico:** Jefferson Doolan
 
 Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. A equipe não deve apagar registros anteriores. Caso o planejamento mude, a alteração deve ser descrita e justificada.
 
