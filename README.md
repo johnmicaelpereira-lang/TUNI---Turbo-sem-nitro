@@ -1,12 +1,6 @@
-
-# TUNI---Turbo-sem-nitro
-Repositório do projeto integrador da equipe TUNI / Meca3V
-
-# Projeto Integrador — Competição de Carrinhos
-
 ## Equipe
 
-**Nome da equipe:** TUNI
+**Nome da equipe:** TUNI - Turbo sem nitro 
 Turma: Meca3V  
 Professor técnico: Jefferson Doolan
 
