@@ -6,8 +6,8 @@ Repositório do projeto integrador da equipe TUNI / Meca3V
 
 ## Equipe
 
-**Nome da equipe:** Equipe XX  
-**Turma:** ____________________  
+**Nome da equipe:** TUNI
+Turma: Meca3V  
 **Professor técnico:**Jefferson Doolan
 
 ### Integrantes e áreas de atuação
