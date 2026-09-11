@@ -17,7 +17,7 @@ Professor técnico: Jefferson Doolan
 | Nome 1 | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
 | Nome 2 | Mecânica | Chassi, direção, transmissão e montagem |
 | Nome 3 | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
-| Andrielle | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
+| Andrielle Rayllany | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
 | Nome 5 | Software e controle | Comunicação, controle, sensores e automação |
 
 > As áreas acima indicam a responsabilidade principal de cada integrante, mas o trabalho pode ser compartilhado entre a equipe.
