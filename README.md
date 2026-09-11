@@ -14,11 +14,11 @@ Professor técnico: Jefferson Doolan
 
 | Integrante | Área principal | Responsabilidades |
 |---|---|---|
-| Nome 1 | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
-| Nome 2 | Mecânica | Chassi, direção, transmissão e montagem |
-| Nome 3 | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
+| Letícia Gabrielle | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
+| Emili Emanuele | Mecânica | Chassi, direção, transmissão e montagem |
+| Luiz Carlos | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
 | Andrielle Rayllany | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
-| Nome 5 | Software e controle | Comunicação, controle, sensores e automação |
+| John Micael | Software e controle | Comunicação, controle, sensores e automação |
 
 > As áreas acima indicam a responsabilidade principal de cada integrante, mas o trabalho pode ser compartilhado entre a equipe.
 
