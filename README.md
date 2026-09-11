@@ -1,8 +1,8 @@
 ## Equipe
 
 **Nome da equipe:** TUNI-Turbo sem nitro 
-Turma: Meca3V  
 Professor técnico: Jefferson Doolan
+Turma: Meca3V  
 
 ### Integrantes e áreas de atuação
 
