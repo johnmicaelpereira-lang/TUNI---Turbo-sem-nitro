@@ -1,6 +1,6 @@
 # Registro de Progresso — Projeto Integrador
 
-**Equipe:** Equipe XX  
+**Equipe:** TUNI - Turbo Sem Nitro  
 **Turma:** Meca3V
 **Professor técnico:** Jefferson Doolan
 
