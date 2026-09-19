@@ -22,3 +22,5 @@ Este documento contém o cronograma completo de desenvolvimento do carrinho robo
 | **02/12 a 08/12/2026** | Checklist de Validação | Realizar a verificação geral de requisitos técnicos, dimensões e acabamento do veículo. | Documento de checklist de validação preenchido e aprovado. | Todos | Planejado |
 | **09/12 a 15/12/2026** | Treino Oficial | Participar da sessão de Treino Oficial e realizar a homologação técnica do veículo (15/12/2026). | Veículo homologado para a competição. | Todos | Planejado |
 | **16/12 a 18/12/2026** | Competição Final | Disputar as baterias na Competição Final (18/12/2026) e concluir a documentação do repositório. | Participação na competição concluída e repositório no GitHub finalizado. | Todos | Planejado |
+---
+**Planilha de Origem:** [📊 Visualizar Cronograma no Google Sheets](https://docs.google.com/spreadsheets/d/1d_tU83n73x08jS0sawkWj94B5m-8b2BaryHRzuHTrT0/edit?usp=sharing)
