@@ -1,4 +1,4 @@
-# Projeto Integrador — Carrinho Robotizada
+# Projeto Integrador — Carrinho Robotizado
 
 ---
 
